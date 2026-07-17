@@ -1,0 +1,20 @@
+Flujo de automatización
+
+Evento que activa el flujo:
+Se registra un nuevo reporte en la aplicación.
+
+Acción:
+n8n detecta el nuevo registro y envía una notificación mediante un bot de Telegram.
+
+Mensaje enviado:
+"Nuevo reporte recibido. Ingrese al sistema para revisarlo."
+
+Información que no debe enviarse por seguridad:
+
+- Nombres completos.
+- Documentos de identidad.
+- Direcciones.
+- Números telefónicos.
+- Contraseñas.
+- Correos electrónicos.
+- Cualquier dato personal o sensible.
