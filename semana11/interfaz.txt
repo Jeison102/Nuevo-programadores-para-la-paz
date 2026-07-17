@@ -1,0 +1,9 @@
+La interfaz de la plataforma tendría una sección principal donde los usuarios puedan consultar los reportes o iniciativas comunitarias disponibles.
+
+También incluiría un formulario para crear un nuevo reporte con información como título, descripción y fecha.
+
+Cada registro tendría botones para consultar detalles y realizar acciones permitidas según el tipo de usuario.
+
+La plataforma mostraría indicadores como cantidad de apoyos o estado del reporte para facilitar el seguimiento.
+
+La interfaz debe ser sencilla, clara y fácil de utilizar, evitando mostrar información privada de los usuarios.
